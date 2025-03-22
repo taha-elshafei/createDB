@@ -1,6 +1,4 @@
 ﻿using createDB;
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
 Employee e1 = new Employee();
 System.Console.WriteLine("Enter Employee Name:");
